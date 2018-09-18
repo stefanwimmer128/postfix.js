@@ -1,7 +1,7 @@
 {
   "name": "postfix.js",
   "version": "1.0.0-rc.0",
-  "description": "Complex features made easy",
+  "description": "Use postfix notation in JavaScript",
   "main": "./cjs",
   "module": "./esm",
   "browser": "./dist/postfix.js",
